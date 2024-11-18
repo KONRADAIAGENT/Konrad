@@ -51,7 +51,7 @@ KONRAD is designed with a modular architecture to ensure scalability and ease of
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/KONRAD.git
+git clone https://github.com/KonradAIAgent/KONRAD.git
 cd KONRAD
 ```
 
