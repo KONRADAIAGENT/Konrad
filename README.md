@@ -1,5 +1,7 @@
 
 # KONRAD Unified Framework
+![Konrad Banner](https://i.ibb.co/0MrzKCG/a-banner-with-the-text-konrad-there-is-a-futuristi-w5h-VXdh-GR-KCCg3tt-Qcz-BQ-bu-LXcuo-R4-GMka-RCYkl.jpg)
+
 
 ## Overview
 KONRAD is a fully integrated AI-powered framework combining real-time video avatars with social media automation and crypto trading functionalities. 
@@ -120,8 +122,4 @@ pipenv run python main.py
 ## License
 MIT License
 
-## Contact
-For questions: [your-email@example.com](mailto:your-email@example.com)
-"# Konrad" 
-"# Konrad" 
-"# Konrad" 
+
