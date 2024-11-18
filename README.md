@@ -1,5 +1,5 @@
 
-# KONRAD AI Video Framework
+# KONRAD AI Video Agent Framework
 ![Konrad Banner](https://i.ibb.co/0MrzKCG/a-banner-with-the-text-konrad-there-is-a-futuristi-w5h-VXdh-GR-KCCg3tt-Qcz-BQ-bu-LXcuo-R4-GMka-RCYkl.jpg)
 
 
